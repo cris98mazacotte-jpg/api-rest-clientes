@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ApiClientes">
+    <resource name="FSharpSignatureData.ApiClientes" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ApiClientes" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ApiClientes" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ApiClientes" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ApiClientes" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ApiClientes" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ApiClientes" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ApiClientes" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ApiClientes" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ApiClientes" action="remove"></resource>
+  </assembly>
+</linker>
