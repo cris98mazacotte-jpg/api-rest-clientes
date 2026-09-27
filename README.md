@@ -2,7 +2,7 @@
 
 ## Alumno
 
-Cristian Adrian Mazacotte Von Streber
+Crhistian Adrian Mazacotte Von Streber
 
 ## Descripción del proyecto
 
